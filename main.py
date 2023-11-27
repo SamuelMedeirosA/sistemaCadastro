@@ -73,7 +73,7 @@ captionHome.grid(row=1, column=0, padx=0, pady=0, sticky='nwe')
 ramoHome = ctk.CTkLabel(homeFrame, text='Projeto desenvolvido pelo RAMO IEEE IFPB', font=ctk.CTkFont(size=16, weight='bold'))
 ramoHome.grid(row=2, column=0, padx=0, pady=0, sticky='swe')
 
-teamHome = ctk.CTkLabel(homeFrame, text='Samuel Medeiros\nMiguel Galvão\nErika\nJardson\nFelipe', font=ctk.CTkFont(size=15, weight='normal'))
+teamHome = ctk.CTkLabel(homeFrame, text='Samuel Medeiros\nMiguel Galvão\nJardson\nRicardo Silva\nErika', font=ctk.CTkFont(size=15, weight='normal'))
 teamHome.grid(row=3, column=0, padx=0, pady=0, sticky='nwe')
 
 
